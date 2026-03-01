@@ -1,0 +1,8 @@
+cardboard
+Paper_cups
+plastic_bottle
+pen
+paper
+glass_bottles
+metal_cans
+pencil
